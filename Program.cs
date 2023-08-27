@@ -8,9 +8,11 @@ class Program {
             /*int f = 5;
             int fatorial = Fatorial(f);
             Console.WriteLine("Fatorial de  " + f +" é: " + fatorial);*/
-            int []vetor = new int []{1, 2, 3, 4};
-            int retornoVetor = SomaVetor(vetor,0);
-            Console.WriteLine("A soma do vetor é: " + retornoVetor);
+            //int []vetor = new int []{1, 2, 3, 4};
+            //int retornoVetor = SomaVetor(vetor,0);
+            //Console.WriteLine("A soma do vetor é: " + retornoVetor);
+            int retornoMult = Multiplicacao(5,5);
+            Console.WriteLine("A multiplicação entre os dois números é : "+ retornoMult);
     }
 
     public static int Fatorial(int n){
@@ -39,6 +41,11 @@ class Program {
             return v[pos] + SomaVetor(v,pos+1);
         }
 
+        public static int Multiplicacao(int A, int B){ 
+            if (B == 1)
+                return A;
+            return A + Multiplicacao(A , B-1);
+        }
       
 
 
