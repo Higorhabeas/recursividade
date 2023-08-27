@@ -1,0 +1,15 @@
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\bin\Debug\net7.0\recursividade.exe
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\bin\Debug\net7.0\recursividade.deps.json
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\bin\Debug\net7.0\recursividade.runtimeconfig.json
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\bin\Debug\net7.0\recursividade.dll
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\bin\Debug\net7.0\recursividade.pdb
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.csproj.AssemblyReference.cache
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.AssemblyInfoInputs.cache
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.AssemblyInfo.cs
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.csproj.CoreCompileInputs.cache
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.dll
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\refint\recursividade.dll
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.pdb
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.genruntimeconfig.cache
+C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\ref\recursividade.dll
