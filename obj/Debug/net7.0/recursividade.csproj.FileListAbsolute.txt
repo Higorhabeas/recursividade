@@ -13,3 +13,18 @@ C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\r
 C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.pdb
 C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.genruntimeconfig.cache
 C:\Cursos\Sistema de inforção\Disciplinas\AED\recursividade\obj\Debug\net7.0\ref\recursividade.dll
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\bin\Debug\net7.0\recursividade.exe
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\bin\Debug\net7.0\recursividade.deps.json
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\bin\Debug\net7.0\recursividade.runtimeconfig.json
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\bin\Debug\net7.0\recursividade.dll
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\bin\Debug\net7.0\recursividade.pdb
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.csproj.AssemblyReference.cache
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.AssemblyInfoInputs.cache
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.AssemblyInfo.cs
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.csproj.CoreCompileInputs.cache
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.dll
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\obj\Debug\net7.0\refint\recursividade.dll
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.pdb
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\obj\Debug\net7.0\recursividade.genruntimeconfig.cache
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\recursividade\obj\Debug\net7.0\ref\recursividade.dll
