@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "3jYcIHyjTOWpeWhgk2q6CTgwTJ8jkmBW9ARSNkyes8vc8EeuXAvKegMzXJyu7x+sDUE5yytCOVmNG62uZCw00A==",
+  "dgSpecHash": "eTMPogKPeaZrSnm2lreOwiRJ0R+3mMCiHieTrUnTVTO3KUDFloR2LfA+afG/DFtO+xhm6L3Z7BtCpu4oG3PJZQ==",
   "success": true,
-  "projectFilePath": "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\recursividade.csproj",
-=======
-  "dgSpecHash": "g29OsSAXT8LpY8hOFynN08P6YZVSAHttKeIoBXbWVVRXR1LzLrLZ8NSTZmMcVTGDbWL07RB0k+RnEBVJu1sh7w==",
-  "success": true,
-  "projectFilePath": "C:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\recursividade\\recursividade.csproj",
->>>>>>> d69f4435fc5331639b54262a81dab33f91bd90ec
+  "projectFilePath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\recursividade.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

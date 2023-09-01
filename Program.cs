@@ -33,11 +33,11 @@ class Program {
 
         int n = 2020;
         string retorno = Binario(n);
-        string invertePilha = "";
-        for (int i = (retorno.Length)-1; i >= 0; i--){
-            invertePilha += retorno[i];
-        }
-        Console.WriteLine(invertePilha);
+        //string invertePilha = "";
+        //for (int i = (retorno.Length)-1; i >= 0; i--){
+            //invertePilha += retorno[i];
+        //}
+        Console.WriteLine(retorno);
     
     }
 
@@ -137,7 +137,7 @@ class Program {
                 return (n).ToString();
             }
 
-            return (n%2).ToString() + Binario(n/2);
+            return Binario(n/2) + (n%2).ToString();
         }
 }
 
