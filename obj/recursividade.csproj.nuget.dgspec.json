@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\recursividade.csproj": {}
+    "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\recursividade.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\recursividade.csproj": {
+    "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\recursividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\recursividade.csproj",
+        "projectUniqueName": "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\recursividade.csproj",
         "projectName": "recursividade",
-        "projectPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\recursividade.csproj",
+        "projectPath": "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\recursividade.csproj",
         "packagesPath": "C:\\Users\\higor_kwmzknu\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\obj\\",
+        "outputPath": "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\higor_kwmzknu\\AppData\\Roaming\\NuGet\\NuGet.Config"
