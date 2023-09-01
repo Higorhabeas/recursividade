@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\higor_kwmzknu\\.nuget\\packages\\": {}
+    "C:\\Users\\Higor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\recursividade.csproj",
+      "projectUniqueName": "c:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\recursividade\\recursividade.csproj",
       "projectName": "recursividade",
-      "projectPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\recursividade.csproj",
-      "packagesPath": "C:\\Users\\higor_kwmzknu\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\recursividade\\obj\\",
+      "projectPath": "c:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\recursividade\\recursividade.csproj",
+      "packagesPath": "C:\\Users\\Higor\\.nuget\\packages\\",
+      "outputPath": "c:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\recursividade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\higor_kwmzknu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Higor\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
